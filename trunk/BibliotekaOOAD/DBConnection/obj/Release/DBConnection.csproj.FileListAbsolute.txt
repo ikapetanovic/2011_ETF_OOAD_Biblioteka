@@ -1,0 +1,15 @@
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\DBConnection\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\DBConnection\bin\Release\DBConnection.dll
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\DBConnection\bin\Release\DBConnection.pdb
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\DBConnection\obj\Release\DBConnection.dll
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\DBConnection\obj\Release\DBConnection.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\DBConnection\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\DBConnection\obj\Release\DBConnection.dll
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\DBConnection\bin\Release\DBConnection.dll
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\DBConnection\bin\Release\DBConnection.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\DBConnection\obj\Release\DBConnection.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\DBConnection\bin\Release\DBConnection.dll
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\DBConnection\bin\Release\DBConnection.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\DBConnection\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\DBConnection\obj\Release\DBConnection.dll
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\DBConnection\obj\Release\DBConnection.pdb

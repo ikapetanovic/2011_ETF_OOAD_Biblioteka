@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{44CCBC83-A583-49FC-AF69-48D4F984725A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>BibliotekaOOAD</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.3.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Pinvoke">
+      <HintPath>..\..\TestAvicap32\Pinvoke\bin\Debug\Pinvoke.dll</HintPath>
+    </Reference>
+    <Reference Include="RSS.NET">
+      <HintPath>..\..\Teo\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\RSS.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=1.0.4143.18524, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\zxing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amazon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amazon.Designer.cs">
+      <DependentUpon>Amazon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dekodiranje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dekodiranje.Designer.cs">
+      <DependentUpon>Dekodiranje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportIznajmljivanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportIznajmljivanje.Designer.cs">
+      <DependentUpon>ReportIznajmljivanje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Izvjestaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Izvjestaj.Designer.cs">
+      <DependentUpon>Izvjestaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ooadtim6DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ooadtim6DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportKnjige.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportKnjige.Designer.cs">
+      <DependentUpon>ReportKnjige.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ooadtim6DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ooadtim6DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PronalazenjeMjesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PronalazenjeMjesta.Designer.cs">
+      <DependentUpon>PronalazenjeMjesta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kamera.Designer.cs">
+      <DependentUpon>Kamera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PromjenaStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PromjenaStudent.Designer.cs">
+      <DependentUpon>PromjenaStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PromjenaUposlenik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PromjenaUposlenik.Designer.cs">
+      <DependentUpon>PromjenaUposlenik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistracijaKnjiga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistracijaKnjiga.Designer.cs">
+      <DependentUpon>RegistracijaKnjiga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaKnjiga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PretragaKnjiga.Designer.cs">
+      <DependentUpon>PretragaKnjiga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iznajmljivanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Iznajmljivanje.Designer.cs">
+      <DependentUpon>Iznajmljivanje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PretragaKorisnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PretragaKorisnik.Designer.cs">
+      <DependentUpon>PretragaKorisnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="PromjenaKnjiga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PromjenaKnjiga.Designer.cs">
+      <DependentUpon>PromjenaKnjiga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistracijaKorisnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistracijaKorisnik.Designer.cs">
+      <DependentUpon>RegistracijaKorisnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportClanovi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportClanovi.Designer.cs">
+      <DependentUpon>ReportClanovi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amazon.resx">
+      <DependentUpon>Amazon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dekodiranje.resx">
+      <DependentUpon>Dekodiranje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportIznajmljivanje.resx">
+      <DependentUpon>ReportIznajmljivanje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Izvjestaj.resx">
+      <DependentUpon>Izvjestaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kamera.resx">
+      <DependentUpon>Kamera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="ReportKnjige.resx">
+      <DependentUpon>ReportKnjige.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PromjenaStudent.resx">
+      <DependentUpon>PromjenaStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PromjenaUposlenik.resx">
+      <DependentUpon>PromjenaUposlenik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PronalazenjeMjesta.resx">
+      <DependentUpon>PronalazenjeMjesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistracijaKnjiga.resx">
+      <DependentUpon>RegistracijaKnjiga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PretragaKnjiga.resx">
+      <DependentUpon>PretragaKnjiga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Iznajmljivanje.resx">
+      <DependentUpon>Iznajmljivanje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PretragaKorisnik.resx">
+      <DependentUpon>PretragaKorisnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PromjenaKnjiga.resx">
+      <DependentUpon>PromjenaKnjiga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistracijaKorisnik.resx">
+      <DependentUpon>RegistracijaKorisnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="ReportClanovi.resx">
+      <DependentUpon>ReportClanovi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ooadtim6DataSet.xsc">
+      <DependentUpon>ooadtim6DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ooadtim6DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ooadtim6DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ooadtim6DataSet.xss">
+      <DependentUpon>ooadtim6DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ooadtim6DataSet1.xsc">
+      <DependentUpon>ooadtim6DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ooadtim6DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ooadtim6DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ooadtim6DataSet1.xss">
+      <DependentUpon>ooadtim6DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DBConnection\DBConnection.csproj">
+      <Project>{73B1357B-82F1-4F2B-9466-F5FBC0840C1E}</Project>
+      <Name>DBConnection</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NAslovna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\booksBiblioteka.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no-photography-sign.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-camera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-preview-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log-Out-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book-icongzgz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-address-book-new-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-preview-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Information-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-help-browser-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data-management-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copyleft-small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bksalebks.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pictures-Nikon-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Misc-User-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webcam-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webcam vector2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webcam vector21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\web_camera_autofocus_logitech.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\web_camera_autofocus_logitech1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pictures-Canon-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barcode-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Photos-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phpHQl7sF.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pbImage.Image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-picture-png-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pictures-icon %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-blue-pictures-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Files-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ileopard-red-chair_128x128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amazon_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zelena4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Files-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue-Library-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Files-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clanska.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report person.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Devices-secure-card-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock-select-remain-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Files-icon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book-picture-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-help-hint-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Information-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-out-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-group-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book-open-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book-icon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\File-History-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login-icon%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plava.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
