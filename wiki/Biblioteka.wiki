@@ -1,0 +1,3 @@
+Cilj projekta je modernizirati Univerzitetsku biblioteku uvođenjem informacionih tehnologija kako bi se olakšalo njeno korištenje uposlenicima i studentima, te i zbog uštede prihoda smanjivanjem broja zaposlenih.
+
+Informacioni sistem treba omogućiti evidenciju korisnika u elektronskom obliku; olakšati organizaciju same institucije korištenjem interfejsa koji omogućava automatsko pronalaženje sjedišta u čitaoni u sklopu biblioteke, te reducirati papirologiju korištenjem modernog software-a koji omogućava olakšanu registraciju korisnika, iznajmljivanje, odnosno pretraživanje i nabavku knjiga.
