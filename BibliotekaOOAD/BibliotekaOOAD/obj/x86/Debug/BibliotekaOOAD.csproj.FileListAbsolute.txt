@@ -1,0 +1,532 @@
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaBrisanjeK.resources
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Prijava.resources
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\Anela\Desktop\eBiblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaBrisanjeK.resources
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Prijava.resources
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\e-biblioteka\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaBrisanjeK.resources
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Prijava.resources
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anela\Desktop\OOADBiblioteka\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaBrisanjeKnjiga.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaBrisanjeKnjiga.resources
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaBrisanjeKorisnika.resources
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Prijava.resources
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ik\Desktop\dodano u foldere rucno\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\ik\Desktop\novi\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\novi\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ik\Desktop\hjfjh\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ik\Desktop\stari\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\stari\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\ik\Desktop\Razno-win\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\Razno-win\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\ik\Desktop\najnoviji\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\bin\Debug\Pinvoke.dll
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Adna\Desktop\OOAD-projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ik\Desktop\jbjb\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\ik\Desktop\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Direkcija\Desktop\OOAD1\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe.config
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe.config
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.KnjigeReport.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\RdlCompile.cache
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ClanoviBibliotekeReports.resources
+C:\Users\Direkcija\Desktop\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Studenti.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe.config
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\RdlCompile.cache
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\RdlCompile.cache
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe.config
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\RdlCompile.cache
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\RdlCompile.compiled
+C:\Documents and Settings\Adna\Desktop\OOAD-Projekat\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe.config
+C:\Documents and Settings\Adna\Desktop\OOAD-Projekat\BibliotekaOOAD\obj\x86\Debug\RdlCompile.cache
+C:\Documents and Settings\Adna\Desktop\OOAD-Projekat\BibliotekaOOAD\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportKnjige.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportClanovi.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportKnjige.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportClanovi.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportKnjige.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportClanovi.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe.config
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportKnjige.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportClanovi.resources
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\RdlCompile.cache
+C:\Users\ik\Desktop\Adna\BibliotekaOOAD\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportKnjige.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportClanovi.resources
+C:\Users\Fye\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Dekodiranje.resources
+C:\Documents and Settings\Adna\Desktop\OOAD-Projekat\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Dekodiranje.resources
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Dekodiranje.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe.config
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Dekodiranje.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportKnjige.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportClanovi.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\RdlCompile.cache
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\ik\Desktop\jnjk\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe.config
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\bin\Debug\Pinvoke.dll
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\bin\Debug\RSS.NET.dll
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\bin\Debug\zxing.dll
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Dekodiranje.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportKnjige.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportClanovi.resources
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\RdlCompile.cache
+C:\Users\ik\Desktop\New folder (3)\BibliotekaOOAD\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ik\Desktop\BibliotekaOOAD\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportIznajmljivanje.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe.config
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.exe
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\bin\Debug\BibliotekaOOAD.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\bin\Debug\DBConnection.dll
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\bin\Debug\DBConnection.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\bin\Debug\Pinvoke.pdb
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.About.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Amazon.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Dekodiranje.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportIznajmljivanje.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Izvjestaj.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Kamera.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportKnjige.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaStudent.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaUposlenik.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PronalazenjeMjesta.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Evidencija.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKnjiga.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Iznajmljivanje.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PretragaKorisnik.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.PromjenaKnjiga.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.Registracija.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\WindowsFormsApplication1.ReportClanovi.resources
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\RdlCompile.cache
+C:\Users\Direkcija\Desktop\IV semestar\OOAD\OOAD projekat\New folder\BibliotekaOOAD\obj\x86\Debug\RdlCompile.compiled
